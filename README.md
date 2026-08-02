@@ -1,16 +1,14 @@
-## Hi there 👋
+# john rengwu
 
-<!--
-**rengwu/rengwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i design and build dev-aligned products.
 
-Here are some ideas to get you started:
+7+ YoE in frontend and UX — fintech, banking, HR, open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[chartr](https://github.com/rengwu/chartr)** — agent multiplexer. Go, Svelte, MIT. ([website](https://chartr.dev))
+- **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** — read-only visualizer and linter for a charted [/wayfinder](https://github.com/mattpocock/skills#engineering) star-map.
+- **[iudex](https://github.com/rengwu/iudex)** — parallel agents with human review
+gates. Rust with Tauri.
+- **[yacht](https://github.com/rengwu/yacht)** — multi-account AI usage tracker in
+the menu bar. Swift.
+
+Kuala Lumpur. [@johnrengwu](https://x.com/johnrengwu) · [johnrengwu.com](https://johnrengwu.com)
