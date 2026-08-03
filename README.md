@@ -2,7 +2,7 @@
 
 i design and build dev-aligned products.
 
-7+ YoE in frontend and UX — fintech, banking, HR, open source.
+fullstack. 7+ YoE primarily in frontend and UX — fintech, banking, HR, open source.
 
 - **[chartr](https://github.com/rengwu/chartr)** — agent multiplexer. Go, Svelte, MIT. ([website](https://chartr.dev))
 - **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** — read-only visualizer and linter for a charted [/wayfinder](https://github.com/mattpocock/skills#engineering) star-map.
