@@ -2,7 +2,7 @@
 
 i design and build dev-aligned products.
 
-fullstack, 7+ YoE primarily in fintech, banking, HR, open source.
+fullstack. worked primarily in fintech, banking, HR, open source.
 
 - **[chartr](https://github.com/rengwu/chartr)** - agent multiplexer with maps. Go, Svelte, MIT. ([website](https://chartr.dev))
 - **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** - visualizer for a charted [/wayfinder](https://github.com/mattpocock/skills#engineering) star-map. Go.
