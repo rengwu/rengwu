@@ -4,7 +4,7 @@ i design and build dev-aligned products.
 
 fullstack. worked primarily in fintech, banking, HR, open source.
 
-- **[chartr](https://github.com/rengwu/chartr)** - agent multiplexer with maps. Go, Svelte, MIT. ([website](https://chartr.dev))
+- **[chartr](https://github.com/rengwu/chartr)** - agent multiplexer with plugins. Rust, GPUI. ([website](https://chartr.dev))
 - **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** - visualizer for a charted [/wayfinder](https://github.com/mattpocock/skills#engineering) star-map. Go.
 - **[iudex](https://github.com/rengwu/iudex)** - parallel agents with human review
 gates. Rust, Tauri.
