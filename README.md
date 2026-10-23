@@ -1,17 +1,15 @@
 # john rengwu
 
-i design and build dev-aligned products.
+i’m a product engineer in Kuala Lumpur. i care about thoughtful interfaces, useful abstractions, and software you can make your own.
 
-fullstack. worked primarily in fintech, banking, HR, open source.
+7+ years building products across fintech, developer tools, and HR. i work across design and engineering, from web interfaces to native desktop apps.
 
-- **[chartr](https://github.com/rengwu/chartr)** - agent multiplexer with plugins. Rust, GPUI. ([website](https://chartr.dev))
-- **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** - visualizer for a charted [/wayfinder](https://github.com/mattpocock/skills#engineering) star-map. Go.
-- **[iudex](https://github.com/rengwu/iudex)** - parallel agents with human review
-gates. Rust, Tauri.
-- **[yacht](https://github.com/rengwu/yacht)** - multi-account AI usage tracker in
-the menu bar. Swift.
-- **[pyground](https://github.com/rengwu/pyground)** - steppable Python code visualizer. React, Python.
-- **[svelte-schema-form](https://github.com/rengwu/svelte-schema-form)** - Svelte schema-based form generator component with strict typings.
-- **[cv-gen](https://github.com/rengwu/cv-gen)** - simple CV generator microsite. Svelte.
+outside of work, i build open-source tools—often things i want to use myself.
 
-Kuala Lumpur. [@johnrengwu](https://x.com/johnrengwu) · [johnrengwu.com](https://johnrengwu.com)
+- **[chartr](https://github.com/rengwu/chartr)** — a native terminal workspace for projects, tools, and coding agents.
+- **[wayfinder-maps](https://github.com/rengwu/wayfinder-maps)** — a planning-graph viewer built on Matt Pocock’s Wayfinder method.
+- **[quinecms](https://github.com/rengwu/quinecms)** — a Git-backed CMS with visual editing for static websites.
+- **[macdirstat](https://github.com/rengwu/macdirstat)** — a native macOS disk visualizer.
+- **[jstack](https://github.com/rengwu/jstack)** — agent workflows for designing, building, and verifying software.
+
+[website](https://johnrengwu.com) · [linkedin](https://linkedin.com/in/rengwu) · [@johnrengwu](https://x.com/johnrengwu)
