@@ -1,6 +1,6 @@
 # John Rengwu
 
-Product engineer here. I do both design and engineering. 7+ years building products across fintech, dev tools, and HR.
+Product engineer. I do both design and engineering. 7+ years building products across fintech, dev tools, and HR.
 
 I also do open-source stuff, building or contributing to projects that help my own day-to-day:
 
